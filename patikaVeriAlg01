@@ -4,3 +4,7 @@
 [2,6,16,18,22,27]
 
 Big[o] notation = n^2
+Best case O(n)
+worst case O(n^2)
+
+Average  case
